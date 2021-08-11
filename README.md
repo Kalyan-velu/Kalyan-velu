@@ -15,8 +15,16 @@ A Noobie Developer🎯 from India 🇮🇳
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 
-![Kalyan's github stats](https://github-readme-stats.vercel.app/api?Kalyan-velu=Kalyan-velu)
+<h3> 🤝🏻 Connect with Me </h3>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kalyan-velu&theme=tokyonight&layout=compact)
+<p align="center">
+
+<a href=""><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Piyush%20Agarwal-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.instagram.com/_kalyan_jyoti_borah/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-_kalyan_jyoti_borah-blue?style=flat-square&logo=instagram"></a>
+<a href="mailto:kalyanborah456@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-kalyanborah456@@gmail.com-blue?style=flat-square&logo=gmail"></a>
+</p>
+
+ <!--⭐️ From [Kalyan Jyoti Borah](https://github.com/Kalyan-velu)-->
+
 
 

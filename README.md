@@ -15,8 +15,8 @@ A Noobie Developer🎯 from India 🇮🇳
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 
-![Kalyan's github stats](https://github-readme-stats.vercel.app/api?kalyan-velu=kalyan-velu)
+![Kalyan's github stats](https://github-readme-stats.vercel.app/api?Kalyan-velu=Kalyan-velu)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kalyan-velu&theme=tokyonight&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kalyan-velu&theme=tokyonight&layout=compact)
 
 

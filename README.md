@@ -1,4 +1,4 @@
-###Hi,I'm Kalyan Jyoti Borah
+**Hi,I'm Kalyan Jyoti Borah
 
 A Noobie Developer🎯 from India 🇮🇳
 
@@ -15,7 +15,7 @@ A Noobie Developer🎯 from India 🇮🇳
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 
-![Kalyan's github stats](https://github-readme-stats.vercel.app/api?kalyan-velu=anuraghazra)](https://github.com/kalyan-velu/github-readme-stats)
+![Kalyan's github stats](https://github-readme-stats.vercel.app/api?kalyan-velu=kalyan-velu)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kalyan-velu&theme=tokyonight&layout=compact)
 

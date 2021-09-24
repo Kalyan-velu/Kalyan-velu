@@ -3,7 +3,7 @@
 A Noobie Developer🎯 from India 🇮🇳
 
   - 👨‍💻 Web Developer
-  - 🌱 Currently learning React & React Native.
+  - 🌱 Currently learning React .
   -  📚 What do I believe? Jack of all, Master of some.
   - 📫 How to reach me: [Facebook](https://www.facebook.com/kalyan.borah06/) - [Instagram](..)
   

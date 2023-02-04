@@ -1,4 +1,4 @@
-###Hi,I'm Kalyan Jyoti Borah
+## Hi,I'm Kalyan Jyoti Borah
 
 A Noobie Developer🎯 from India 🇮🇳
 
@@ -19,7 +19,7 @@ A Noobie Developer🎯 from India 🇮🇳
 
 <p align="center">
 
-<a href=""><img alt="LinkedIn" src="https://www.linkedin.com/in/kalyan-jyoti-borah-3595b5178/"></a>
+<a href="https://www.linkedin.com/in/kalyan-jyoti-borah-3595b5178/"><img alt="Linkedin" src="https://img.shields.io/badge/Linkedin-_kalyan_jyoti_borah-blue?style=flat-square&logo=linkedin"></a>
 <a href="https://www.instagram.com/_kalyan_jyoti_borah/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-_kalyan_jyoti_borah-blue?style=flat-square&logo=instagram"></a>
 <a href="mailto:kalyanborah456@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-kalyanborah456@@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>

@@ -1,6 +1,6 @@
 # Hi,I'm Kalyan Jyoti Borah
 
-A Noobie Developer🎯 from India 🇮🇳
+> A FullStack Developer🎯 from India 🇮🇳
 
   - 👨‍💻 Web Developer
   - 🌱 Currently learning Go .

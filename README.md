@@ -10,6 +10,8 @@ A Noobie Developer🎯 from India 🇮🇳
   <p align="center">
         <img src="https://skillicons.dev/icons?i=ps,figma,git,github,css,html,js,firebase,nodejs,react,vite,vscode&theme=light&perline=6"/>
     </p>
+ <p align="center">
+ </p>
 <h3> 🤝🏻 Connect with Me </h3>
 
 <p align="center">

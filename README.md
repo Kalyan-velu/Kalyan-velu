@@ -25,6 +25,7 @@ A Noobie Developer🎯 from India 🇮🇳
 </p>
 
  <!--⭐️ From [Kalyan Jyoti Borah](https://github.com/Kalyan-velu)-->
+ [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kalyan-velu)](https://github.com/Kalyan-velu/github-readme-stats)
 
 
 

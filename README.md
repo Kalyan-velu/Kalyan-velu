@@ -25,8 +25,8 @@ A Noobie Developer🎯 from India 🇮🇳
 </p>
 
  <!--⭐️ From [Kalyan Jyoti Borah](https://github.com/Kalyan-velu)-->
- [![Kalyan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kalyan-velu&&show_icons=true&theme=radical)](https://github.com/Kalyan-velu/github-readme-stats&&show_icons=true&theme=radical)
- [![Kalyan's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Kalyan-velu&layout=compact)]
+ [![Kalyan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kalyan-velu&show_icons=true&theme=radical)](https://github.com/Kalyan-velu/github-readme-stats&&show_icons=true&theme=radical)
+ [![Kalyan's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Kalyan-velu&show_icons=true&theme=radical&layout=compact)]
 
 
 

@@ -4,10 +4,10 @@
 
 **Know Me More:**
   - 🌍  I'm based in India
-  - 🖥️  See my portfolio at [https://dheerajgogoi.netlify.app/](http://dheerajgogoi.netlify.app/)
-  - ✉️  You can contact me at [dheerajgogoi2@gmail.com](mailto:dheerajgogoi2@gmail.com)
+  - 🖥️  See my portfolio at [https://kalyanborah.netlify.app](https://kalyanborah.netlify.app)
+  - ✉️  You can contact me at [kalyanborah456@gmail.com](mailto:kalyanborah456@gmail.com)
   - 🤝  I’m looking to collaborate on Freelance projects or any other dev projects
-  - 📝 Checkout My [Resume](https://drive.google.com/file/d/1usjEuHBV5LGfnbeU2Kdlj3iueIFuFB6G/view?usp=sharing)
+  - 📝 Checkout My [Resume]()
 
 ## Languages:  
 

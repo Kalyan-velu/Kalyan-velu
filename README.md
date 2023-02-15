@@ -7,7 +7,7 @@
   - 🖥️  See my portfolio at [https://kalyanborah.netlify.app](https://kalyanborah.netlify.app)
   - ✉️  You can contact me at [kalyanborah456@gmail.com](mailto:kalyanborah456@gmail.com)
   - 🤝  I’m looking to collaborate on Freelance projects or any other dev projects
-  - 📝 Checkout My [Resume](https://drive.google.com/file/d/16zv3LjSx7qjM9RPVGiQ2sS0hW7NK9dRs/view?usp=share_link)
+  - 📝 Checkout My <a href="https://drive.google.com/file/d/16zv3LjSx7qjM9RPVGiQ2sS0hW7NK9dRs/view?usp=share_link">Resume</a>
 
 ## Languages:  
 

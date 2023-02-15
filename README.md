@@ -7,17 +7,17 @@
   - 🖥️  See my portfolio at [https://kalyanborah.netlify.app](https://kalyanborah.netlify.app)
   - ✉️  You can contact me at [kalyanborah456@gmail.com](mailto:kalyanborah456@gmail.com)
   - 🤝  I’m looking to collaborate on Freelance projects or any other dev projects
-  - 📝 Checkout My [Resume]()
+  - 📝 Checkout My [Resume](https://drive.google.com/file/d/16zv3LjSx7qjM9RPVGiQ2sS0hW7NK9dRs/view?usp=share_link)
 
 ## Languages:  
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=ps,figma,git,github,css,html,js,firebase,nodejs,react,vite,java,python,django,nextjs,docker,jest,gatsby,php,mui,tailwindcss,golang,deno,vscode&theme=light&perline=6"/>
-</p>
-    
+<p align="center">
+<img src="https://skillicons.dev/icons?i=ps,figma,git,github,css,html,js,firebase,nodejs,react,vite,java,python,django,nextjs,docker,jest,gatsby,php,mui,tailwindcss,golang,deno,vscode&theme=light"/>
+</p>   
+
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=Kalyan-velu.Kalyan-velu&left_color=green&right_color=red)
 
- <!--⭐️ From [Kalyan Jyoti Borah](https://github.com/Kalyan-velu)-->
+<!--⭐️ From [Kalyan Jyoti Borah](https://github.com/Kalyan-velu)-->
 <!--  [![Kalyan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kalyan-velu&show_icons=true&theme=radical)](https://github.com/Kalyan-velu/github-readme-stats&&show_icons=true&theme=radical)
  [![Kalyan's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Kalyan-velu&show_icons=true&theme=radical&layout=compact)]
  -->

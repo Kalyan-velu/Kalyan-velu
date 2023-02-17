@@ -51,4 +51,4 @@
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/543704399382577152)](https://discord.com/users/543704399382577152)
 
-
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31klyonozioc7r26lj2nk4xyorte&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&bar_color=173860&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)

@@ -9,7 +9,7 @@
   - 🤝  I’m looking to collaborate on Freelance projects or any other dev projects
   - 📝 Checkout My <a href="https://drive.google.com/file/d/16zv3LjSx7qjM9RPVGiQ2sS0hW7NK9dRs/view?usp=share_link">Resume</a>
 
-## Languages:  
+# ProgrammingLanguages:  
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=ps,figma,git,github,css,html,js,firebase,nodejs,react,vite,java,python,django,nextjs,docker,jest,gatsby,php,mui,tailwindcss,golang,deno,vscode&theme=light"/>
@@ -21,19 +21,19 @@
 <!--  [![Kalyan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kalyan-velu&show_icons=true&theme=radical)](https://github.com/Kalyan-velu/github-readme-stats&&show_icons=true&theme=radical)
  [![Kalyan's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Kalyan-velu&show_icons=true&theme=radical&layout=compact)]
  -->
-## Status 
+# Status 
 <a href="https://kalyan-jyoti-borah-portfolio.onrender.com/">
        <img src="https://github-readme-stats.vercel.app/api?username=Kalyan-velu&show_icons=true&include_all_commits=true&show_icons=true&theme=radical"/>
-  <br/>
-       <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Kalyan-velu&show_icons=true&theme=radical&layout=compact"/>
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kalyan-velu&theme=dark&background=191970"/>
         <br/>
        <img src="https://github-profile-trophy.vercel.app/?username=Kalyan-velu&row=2&column=4&theme=algolia"/>
+       <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Kalyan-velu&show_icons=true&theme=radical&layout=compact"/>
         <br/>
-       <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kalyan-velu&theme=dark&background=191970"/>
+      
 </a>
 
   
-## Connect with Me
+# Connect with Me
 
 <p>
 <a href="https://www.linkedin.com/in/kalyan-jyoti-borah-3595b5178/" title="https://www.linkedin.com/in/kalyan-jyoti-borah-3595b5178/">
@@ -47,7 +47,7 @@
 </a>
 </p>
 
-## More
+# More
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/543704399382577152)](https://discord.com/users/543704399382577152)
 

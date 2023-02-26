@@ -2,6 +2,8 @@
 
 > A FullStack Developer🎯 from India 🇮🇳
 
+![visitors](https://visitor-badge.glitch.me/badge?page_id=Kalyan-velu.Kalyan-velu&left_color=green&right_color=red)
+
 **Know Me More:**
   - 🌍  I'm based in India
   - 🖥️  See my portfolio at [https://kalyanborah.netlify.app](https://kalyanborah.netlify.app)
@@ -15,21 +17,21 @@
 <img src="https://skillicons.dev/icons?i=ps,figma,git,github,css,html,js,firebase,nodejs,react,vite,java,python,django,nextjs,docker,jest,gatsby,php,mui,tailwindcss,golang,deno,vscode&theme=light"/>
 </p>   
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=Kalyan-velu.Kalyan-velu&left_color=green&right_color=red)
+
 
 <!--⭐️ From [Kalyan Jyoti Borah](https://github.com/Kalyan-velu)-->
 <!--  [![Kalyan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kalyan-velu&show_icons=true&theme=radical)](https://github.com/Kalyan-velu/github-readme-stats&&show_icons=true&theme=radical)
  [![Kalyan's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Kalyan-velu&show_icons=true&theme=radical&layout=compact)]
  -->
 # Status 
+
 <a href="https://kalyan-jyoti-borah-portfolio.onrender.com/">
-       <img src="https://github-readme-stats.vercel.app/api?username=Kalyan-velu&show_icons=true&include_all_commits=true&show_icons=true&theme=radical"/>
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kalyan-velu&theme=dark&background=191970"/>
-        <br/>
-       <img src="https://github-profile-trophy.vercel.app/?username=Kalyan-velu&row=2&column=4&theme=algolia"/>
-       <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Kalyan-velu&show_icons=true&theme=radical&layout=compact"/>
-        <br/>
-      
+ <img src="https://github-readme-stats.vercel.app/api?username=Kalyan-velu&show_icons=true&include_all_commits=true&show_icons=true&theme=radical"/>
+ <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kalyan-velu&theme=dark&background=191970"/>
+ <br/>
+ <img src="https://github-profile-trophy.vercel.app/?username=Kalyan-velu&row=2&column=4&theme=algolia"/>
+ <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Kalyan-velu&show_icons=true&theme=radical&layout=compact"/>
+ <br/>  
 </a>
 
   

@@ -10,7 +10,7 @@
   - ✉️  You can contact me at [kalyanborah456@gmail.com](mailto:kalyanborah456@gmail.com)
   - 🤝  I’m looking to collaborate on Freelance projects or any other dev projects
   - 📝 Checkout My <a href="https://drive.google.com/file/d/16zv3LjSx7qjM9RPVGiQ2sS0hW7NK9dRs/view?usp=share_link">Resume</a>
-
+  - [![Peerlist](https://github-readme-badge.peerlist.io/api/kalyan)](https://peerlist.io/kalyan)
 ## ProgrammingLanguages:  
 
 

@@ -8,7 +8,7 @@
 [![Peerlist](https://github-readme-badge.peerlist.io/api/kalyan)](https://peerlist.io/kalyan)
 
 <a href="https://app.daily.dev/kalyan-v">
-  <img src="/DevCard.svg" align="right" width="400" alt="Kalyan Jyoti Borah's Dev Card"/>
+  <img src="https://github.com/Kalyan-velu/Kalyan-velu/blob/main/devcard.svg" align="right" width="400" alt="Kalyan Jyoti Borah's Dev Card"/>
 </a>
 </div>
 

@@ -1,8 +1,17 @@
 # Hi,There👋👋
+<div align="left">
+
+
 [![twitter](https://img.shields.io/badge/twitter-black?style=flat&logo=twitter)](https://twitter.com/kalyan_borah_RR)
 [![Linkedin](https://img.shields.io/badge/linkedin-black?style=flat&logo=linkedin)](https://www.linkedin.com/in/kalyan-jyoti-borah-3595b5178/)
 [![Instagram](https://img.shields.io/badge/instagram-black?style=flat&logo=instagram)](https://www.linkedin.com/in/kalyan-jyoti-borah-3595b5178/)
 [![Peerlist](https://github-readme-badge.peerlist.io/api/kalyan)](https://peerlist.io/kalyan)
+
+<a href="https://app.daily.dev/kalyan-v">
+  <img src="/DevCard.svg" align="right" width="400" alt="Kalyan Jyoti Borah's Dev Card"/>
+</a>
+</div>
+
 
 ## I am Kalyan Jyoti Borah
   - 🌍  Based in India
@@ -14,10 +23,7 @@
 ![Metrics](https://github.com/Kalyan-velu/Kalyan-velu/blob/main/github-metrics.svg)
 ![Topics](/metrics.plugin.topics.svg)
 ![Notable contributions](/notable.svg)
-![Achievements](/achievements.svg)
 
-
-[![Discord Presence](https://lanyard.cnrad.dev/api/543704399382577152)](https://discord.com/users/543704399382577152)
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31klyonozioc7r26lj2nk4xyorte&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&bar_color=173860&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 

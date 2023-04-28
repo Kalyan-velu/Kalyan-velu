@@ -96,4 +96,27 @@ jobs:
           # Labels plugin
           plugin_topics: yes
           plugin_topics_limit: 12
-    
+  icons:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: lowlighter/metrics@v3.33
+        with:
+          # You'll need to setup a personal token in your secrets.
+          token: ${{ secrets.METRICS_TOKEN }}
+          # GITHUB_TOKEN is a special auto-generated token used for commits
+          committer_token: ${{ secrets.GITHUB_TOKEN }}
+          committer_message: "build: update `${filename}`"
+
+          # Options
+          user: Kalyan-velu
+          template: classic
+          base: ""
+          config_display: large
+          config_timezone: 	Asia/Kolkata
+          config_output: svg
+          filename: metrics.plugin.topics.icons.svg
+
+          # Labels plugin
+          plugin_topics: yes
+          plugin_topics_limit: 12
+          plugin_topics_mode: icons

@@ -1,17 +1,19 @@
-# Hi,I'm Kalyan Jyoti Borah
-
-> A FullStack Developer🎯 from India 🇮🇳
-
+# Hi,There👋👋
+[![twitter](https://img.shields.io/twitter/follow/kalyan_borah_RR?label=Twitter&logo=twitter&style=flat-square&color=1da1f2&logoColor=ffffff)](https://twitter.com/kalyan_borah_RR)
+[![Linkedin](https://img.shields.io/static/v1?logo=linkedin&style=flat-square&color=3072b1&label=LinkedIn&message=%E2%98%86)](https://www.linkedin.com/in/kalyan-jyoti-borah-3595b5178/)
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=Kalyan-velu.Kalyan-velu&left_color=green&right_color=red)
 
-**Know Me More:**
-  - 🌍  I'm based in India
+## I am Kalyan Jyoti Borah
+  - 🌍  Based in India
   - 🖥️  See my portfolio at [https://kalyanborah.netlify.app](https://kalyanborah.netlify.app)
   - ✉️  You can contact me at [kalyanborah456@gmail.com](mailto:kalyanborah456@gmail.com)
   - 🤝  I’m looking to collaborate on Freelance projects or any other dev projects
   - 📝 Checkout My <a href="https://drive.google.com/file/d/16zv3LjSx7qjM9RPVGiQ2sS0hW7NK9dRs/view?usp=share_link">Resume</a>
   - [![Peerlist](https://github-readme-badge.peerlist.io/api/kalyan)](https://peerlist.io/kalyan)
-## ProgrammingLanguages:  
+
+![Metrics](https://raw.githubusercontent.com/Kalyan-velu/Kalyan-velu/github-metrics/github-metrics.svg)
+![Notable contributions](https://raw.githubusercontent.com/omBratteng/omBratteng/github-metrics/notable.svg)
+![Achievements](https://raw.githubusercontent.com/omBratteng/omBratteng/github-metrics/achievements.svg)
 
 
 ## My Skill Set  

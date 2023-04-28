@@ -11,7 +11,7 @@
   - 📝 Checkout My <a href="https://drive.google.com/file/d/16zv3LjSx7qjM9RPVGiQ2sS0hW7NK9dRs/view?usp=share_link">Resume</a>
   - [![Peerlist](https://github-readme-badge.peerlist.io/api/kalyan)](https://peerlist.io/kalyan)
 
-![Metrics](https://raw.githubusercontent.com/Kalyan-velu/Kalyan-velu/github-metrics/github-metrics.svg)
+![Metrics](https://github.com/Kalyan-velu/Kalyan-velu/blob/main/github-metrics.svg)
 ![Notable contributions](https://raw.githubusercontent.com/omBratteng/omBratteng/github-metrics/notable.svg)
 ![Achievements](https://raw.githubusercontent.com/omBratteng/omBratteng/github-metrics/achievements.svg)
 

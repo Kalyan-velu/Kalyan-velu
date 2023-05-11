@@ -31,8 +31,8 @@
 ![Metrics](https://github.com/Kalyan-velu/Kalyan-velu/blob/main/github-metrics.svg)
 ![Topics](/metrics.plugin.topics.svg)
 ![Notable contributions](/notable.svg)
-![Achievements](/achievements.svg)
-<img src="/metrics.plugin.topics.icons.svg" width="150%" alt="Starred Topics">
+<!-- ![Achievements](/achievements.svg) -->
+<!-- <img src="/metrics.plugin.topics.icons.svg" width="150%" alt="Starred Topics"> -->
 <details>
 
 <summary> More </summary>

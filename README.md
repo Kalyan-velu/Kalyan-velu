@@ -9,13 +9,13 @@
 
 </div>
 
-<div align="left">
+<!-- <div align="left">
 
 <a href="https://app.daily.dev/kalyan-v">
   <img src="https://github.com/Kalyan-velu/Kalyan-velu/blob/main/devcard.svg" align="right" width="300" alt="Kalyan Jyoti Borah's Dev Card"/>
 </a>
 
-</div>
+</div> -->
 
 
 ## I am Kalyan Jyoti Borah

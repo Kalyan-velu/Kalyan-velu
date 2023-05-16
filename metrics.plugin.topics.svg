@@ -20,15 +20,15 @@
                             <div class="label" title="HTML is the fundamental markup language for webpages.">html</div>
                             <div class="label" title="C is a general purpose programming language that first appeared in 1972.">c</div>
                             <div class="label" title="React is an open source JavaScript library used for designing user interfaces.">react</div>
-                            <div class="label" title="Cascading Style Sheets (CSS) is a language used most often to style and improve upon the appearance of views.">css</div>
                             <div class="label" title="Algorithms are self-contained sequences that carry out a variety of tasks.">algorithm</div>
+                            <div class="label" title="Cascading Style Sheets (CSS) is a language used most often to style and improve upon the appearance of views.">css</div>
                             <div class="label" title="An API (Application Programming Interface) is a collection of protocols and subroutines for building software.">api</div>
                             <div class="label" title="Amazon Web Services provides on-demand cloud computing platforms on a subscription basis.">amazon web services</div>
                             <div class="label" title="Bootstrap is an HTML, CSS, and JavaScript framework.">bootstrap</div>
                             <div class="label" title="A database is a structured set of data held in a computer, usually a server.">database</div>
                             <div class="label" title="Node.js is a tool for executing JavaScript in a variety of environments.">node.js</div>
                             <div class="label" title="Docker is a platform built for developers to build and run applications.">docker</div>
-                            <div class="label" title="Data structures, Deep learning, Awesome Lists, Google, MySQL, Angular, Go, Azure, Django, PHP, GitHub API, Front end, Command line interface, JSON, Bash, .NET, ASP.NET, HTTP, MATLAB, Jupyter Notebook, Ajax, MongoDB, jQuery, Firefox, Firebase, Flask, Laravel, npm, GraphQL, Hacktoberfest, Markdown, Continuous integration, Natural language processing, Express, Documentation, Babel, Deployment, Material Design, ESLint, Gradle, Dependency management, Mongoose, Ember">and 43 more...</div>
+                            <div class="label" title="Data structures, Deep learning, Awesome Lists, Google, MySQL, Angular, Go, Azure, Django, PHP, GitHub API, Front end, Command line interface, JSON, Bash, ASP.NET, .NET, HTTP, MATLAB, Jupyter Notebook, Ajax, MongoDB, jQuery, Firefox, Firebase, Flask, Laravel, npm, GraphQL, Hacktoberfest, Markdown, Continuous integration, Natural language processing, Express, Documentation, Babel, Deployment, Material Design, ESLint, Gradle, Dependency management, Mongoose, Ember">and 43 more...</div>
                         </div>
                     </section>
                 </div>

@@ -37,7 +37,7 @@
 <!-- ![Achievements](/achievements.svg) -->
 <!-- <img src="/metrics.plugin.topics.icons.svg" width="150%" alt="Starred Topics"> -->
 
-<details>
+<details align="center">
 
 <summary> Nothing just more GitHub status </summary>
 
@@ -55,7 +55,7 @@
   
 </details>
 
-<details>
+<details align="center">
 
 <summary> If You Want Follow Me: </summary>
 

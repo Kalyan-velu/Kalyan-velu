@@ -28,6 +28,16 @@
   - 🤝  I’m looking to collaborate on Freelance projects or any other dev projects
   - 📝 Checkout My <a href="https://drive.google.com/file/d/16zv3LjSx7qjM9RPVGiQ2sS0hW7NK9dRs/view?usp=share_link">Resume</a>
 
+<details>
+<summary> If You Want to know, What I am listening to🍃: </summary>
+
+### *Spotify*
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31klyonozioc7r26lj2nk4xyorte&cover_image=true&theme=natemoo-re&show_offline=true&background_color=121212&bar_color=173860&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
+
+<!-- ### *Discord* -->
+
+</details>
 
 ## Status
 
@@ -36,6 +46,7 @@
 ![Notable contributions](/notable.svg)
 <!-- ![Achievements](/achievements.svg) -->
 <!-- <img src="/metrics.plugin.topics.icons.svg" width="150%" alt="Starred Topics"> -->
+
 
 <details align="center">
 
@@ -55,16 +66,6 @@
   
 </details>
 
-<details align="center">
 
-<summary> If You Want to know, What am I listening to : </summary>
-
-### *Spotify*
-
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31klyonozioc7r26lj2nk4xyorte&cover_image=true&theme=natemoo-re&show_offline=true&background_color=121212&bar_color=173860&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
-
-<!-- ### *Discord* -->
-
-</details>
 
 

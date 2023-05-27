@@ -57,7 +57,7 @@
 
 <details align="center">
 
-<summary> If You Want Follow Me: </summary>
+<summary> If You Want to know, What am I listening to : </summary>
 
 ### *Spotify*
 

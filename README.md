@@ -4,10 +4,10 @@
 
 [![twitter](https://img.shields.io/badge/twitter-black?style=flat&logo=twitter)](https://twitter.com/kalyan_borah_RR)
 [![Linkedin](https://img.shields.io/badge/linkedin-black?style=flat&logo=linkedin)](https://www.linkedin.com/in/kalyan-jyoti-borah-3595b5178/)
-[![Instagram](https://img.shields.io/badge/instagram-brown?style=flat&logo=instagram)](https://instagram.com/_dorky_grooves_?igshid=MzNlNGNkZWQ4Mg==)
+[![Instagram](https://img.shields.io/badge/instagram-black?style=flat&logo=instagram)](https://instagram.com/_dorky_grooves_?igshid=MzNlNGNkZWQ4Mg==)
 [![Peerlist](https://github-readme-badge.peerlist.io/api/kalyan)](https://peerlist.io/kalyan)
   
-![pre](https://img.shields.io/github/followers/kalyan-velu?label=Followers&style=social)
+![Followers](https://img.shields.io/github/followers/kalyan-velu?label=Followers&style=social)
 ![Profile views](https://gpvc.arturio.dev/Kalyan-velu)
 
 </div>

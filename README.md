@@ -8,7 +8,7 @@
 [![Peerlist](https://github-readme-badge.peerlist.io/api/kalyan)](https://peerlist.io/kalyan)
   
 ![Followers](https://img.shields.io/github/followers/kalyan-velu?label=Followers&style=social)
-![Profile views](https://gpvc.arturio.dev/Kalyan-velu)
+<!-- ![Profile views](https://gpvc.arturio.dev/Kalyan-velu) -->
 
 </div>
 

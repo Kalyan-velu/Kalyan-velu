@@ -5,7 +5,7 @@
 [![twitter](https://img.shields.io/badge/twitter-black?style=flat&logo=twitter)](https://twitter.com/kalyan_borah_RR)
 [![Linkedin](https://img.shields.io/badge/linkedin-black?style=flat&logo=linkedin)](https://www.linkedin.com/in/kalyan-jyoti-borah-3595b5178/)
 [![Instagram](https://img.shields.io/badge/instagram-black?style=flat&logo=instagram)](https://www.instagram.com/i_hate._you_but/)
-[![Peerlist](https://github-readme-badge.peerlist.io/api/kalyan)](https://peerlist.io/kalyan)
+[![Peerlist](https://github-readme-badge.peerlist.io/api)](https://peerlist.io/kalyan)
   
 ![Followers](https://img.shields.io/github/followers/kalyan-velu?label=Followers&style=social)
 ![Profile Views](https://komarev.com/ghpvc/?username=kalyan-velu&style=flat-square)

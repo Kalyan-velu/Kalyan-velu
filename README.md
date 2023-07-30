@@ -26,7 +26,7 @@
   - 🖥️  Visit my portfolio <a href="https://kalyanborah456">Here</a>
   - ✉️  You can contact me at [Here](mailto:kalyanborah456@gmail.com)
   - 🤝  I’m looking to collaborate on Freelance projects or any other dev projects
-  - 📝 Checkout My <a href="https://1drv.ms/b/s!AhPYhZ0MR6eJiAfs32JivLGekD1k?e=pLlylG">Resume</a>
+  - 📝 Checkout My <a href="https://1drv.ms/b/s!AhPYhZ0MR6eJiAfs32JivLGekD1k?e=NXHkbk">Resume</a>
 
 
 ## Status

@@ -23,10 +23,10 @@
 
 ## I am Kalyan Jyoti Borah
   -   From India
-  - 🖥️  See my portfolio at [Here](https://kalyanborah.netlify.app)
+  - 🖥️  Visit my portfolio <a href="https://kalyanborah456">Here</a>
   - ✉️  You can contact me at [Here](mailto:kalyanborah456@gmail.com)
   - 🤝  I’m looking to collaborate on Freelance projects or any other dev projects
-  - 📝 Checkout My <a href="https://drive.google.com/file/d/16zv3LjSx7qjM9RPVGiQ2sS0hW7NK9dRs/view?usp=share_link">Resume</a>
+  - 📝 Checkout My <a href="https://1drv.ms/b/s!AhPYhZ0MR6eJiAfs32JivLGekD1k?e=pLlylG">Resume</a>
 
 
 ## Status
@@ -41,7 +41,6 @@
 <summary> What I am listening to🍃🎵🎶🎧: </summary>
 
 ### *Spotify*
-
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31klyonozioc7r26lj2nk4xyorte&cover_image=true&theme=natemoo-re&show_offline=true&background_color=121212&bar_color=173860&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
 

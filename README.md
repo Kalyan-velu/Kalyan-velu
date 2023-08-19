@@ -44,6 +44,7 @@
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31klyonozioc7r26lj2nk4xyorte&cover_image=true&theme=natemoo-re&show_offline=true&background_color=121212&bar_color=173860&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
 
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31klyonozioc7r26lj2nk4xyorte)
 
 <!-- ### *Discord* -->
 

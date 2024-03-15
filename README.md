@@ -37,7 +37,7 @@
 ![Achievements](/achievements.svg)
 <img src="/metrics.plugin.topics.icons.svg" width="150%" alt="Starred Topics">
 
-<details align="center">
+<details align="center" dir="ltr">
 <summary> What I am listening to🍃🎵🎶🎧: </summary>
 
 ### *Spotify*

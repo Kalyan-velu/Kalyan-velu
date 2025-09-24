@@ -4,7 +4,7 @@
 
 [![twitter](https://img.shields.io/badge/twitter-black?style=flat&logo=twitter)](https://twitter.com/kalyan_borah_RR)
 [![Linkedin](https://img.shields.io/badge/linkedin-black?style=flat&logo=linkedin)](https://www.linkedin.com/in/kalyan-jyoti-borah/)
-[![Instagram](https://img.shields.io/badge/instagram-black?style=flat&logo=instagram)](https://www.instagram.com/kalyan_j._b/)
+[![Instagram](https://img.shields.io/badge/instagram-black?style=flat&logo=instagram)](https://www.instagram.com/klyn_borah/)
 [![Peerlist](https://github-readme-badge.peerlist.io/api/kalyan)](https://peerlist.io/kalyan)
   
 ![Followers](https://img.shields.io/github/followers/kalyan-velu?label=Followers&style=social)

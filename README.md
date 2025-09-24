@@ -23,10 +23,10 @@
 
 ## I am Kalyan Jyoti Borah
   -   From India
-  - 🖥️  Visit my portfolio <a href="https://kalyanborah456">Here</a>
+  - 🖥️  Visit my portfolio <a href="https://kalyanborah.netlify.app">Here</a>
   - ✉️  You can contact me at [Here](mailto:kalyanborah456@gmail.com)
   - 🤝  I’m looking to collaborate on Freelance projects or any other dev projects
-  - 📝 Checkout My <a href="https://1drv.ms/b/s!AhPYhZ0MR6eJiAfs32JivLGekD1k?e=NXHkbk">Resume</a>
+  - 📝 Checkout My <a href="https://drive.google.com/file/d/1uJIgPeS1PV8ug3Hx1v2EcBlKAoBL460h/view?usp=drivesdk">Resume</a>
 
 
 ## Status

@@ -26,7 +26,7 @@
   - 🖥️  Visit my portfolio <a href="https://kalyanborah.netlify.app">Here</a>
   - ✉️  You can contact me at [Here](mailto:kalyanborah456@gmail.com)
   - 🤝  I’m looking to collaborate on Freelance projects or any other dev projects
-  - 📝 Checkout My <a href="https://drive.google.com/file/d/1uJIgPeS1PV8ug3Hx1v2EcBlKAoBL460h/view?usp=drivesdk">Resume</a>
+  - 📝 Checkout My [<a href="https://drive.google.com/file/d/1uJIgPeS1PV8ug3Hx1v2EcBlKAoBL460h/view?usp=drivesdk">Resume</a>](https://drive.google.com/file/d/1W-n6AucXTmftFXGd_DEipijMxpXo8DHd/view?usp=sharing&usp=embed_facebook)
 
 
 ## Status

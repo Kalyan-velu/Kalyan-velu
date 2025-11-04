@@ -1,5 +1,3 @@
-# Hi, There👋👋
-
 <div align="center">
 
 [![twitter](https://img.shields.io/badge/twitter-black?style=flat&logo=twitter)](https://twitter.com/kalyan_borah_RR)
@@ -21,12 +19,11 @@
 </div>
 
 
-## I am Kalyan Jyoti Borah
-  -   From India
-  - 🖥️  Visit my portfolio <a href="https://kalyanborah.netlify.app">Here</a>
+## Kalyan Jyoti Borah
+  - 🖥️  Visit my portfolio <a href="https://portfolio.kalyanjyotiborah.pro">Here</a>
   - ✉️  You can contact me at [Here](mailto:kalyanborah456@gmail.com)
-  - 🤝  I’m looking to collaborate on Freelance projects or any other dev projects
-  - 📝 Checkout My [<a href="https://drive.google.com/file/d/1uJIgPeS1PV8ug3Hx1v2EcBlKAoBL460h/view?usp=drivesdk">Resume</a>](https://drive.google.com/file/d/1W-n6AucXTmftFXGd_DEipijMxpXo8DHd/view?usp=sharing&usp=embed_facebook)
+  - 🤝  I’m available for hiring 
+  - 📝 Interested? Checkout My [<a href="https://drive.google.com/file/d/1uJIgPeS1PV8ug3Hx1v2EcBlKAoBL460h/view?usp=drivesdk" target="_blank">Resume</a>](https://drive.google.com/file/d/1W-n6AucXTmftFXGd_DEipijMxpXo8DHd/view?usp=sharing&usp=embed_facebook)
 
 
 ## Status

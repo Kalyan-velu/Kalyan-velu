@@ -10,14 +10,6 @@
 
 </div>
 
-<div align="left">
-
-<!-- <a href="https://app.daily.dev/kalyan-v">
-  <img src="https://github.com/Kalyan-velu/Kalyan-velu/blob/main/devcard.svg" align="right" width="300" alt="Kalyan Jyoti Borah's Dev Card"/>
-</a> -->
-
-</div>
-
 
 ## Kalyan Jyoti Borah
   - 🖥️  Visit my portfolio <a href="https://portfolio.kalyanjyotiborah.pro">Here</a>
@@ -33,43 +25,6 @@
 ![Notable contributions](/notable.svg)
 
 <img src="/metrics.plugin.topics.icons.svg" width="150%" alt="Starred Topics">
-
-<details align="center" dir="ltr">
-<summary> What I am listening to🍃🎵🎶🎧: </summary>
-
-### *Spotify*
-
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31klyonozioc7r26lj2nk4xyorte&cover_image=true&theme=natemoo-re&show_offline=true&background_color=121212&bar_color=173860&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
-
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31klyonozioc7r26lj2nk4xyorte)
-
-<!-- ### *Discord* -->
-
-</details>
-
-<details align="center">
-
-<summary> Nothing just more GitHub status </summary>
-
-<div align="center">
-  
-
-### Streak Status
-  
-![streak-status](https://github-readme-streak-stats.herokuapp.com/?user=kalyan-velu&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>)
-  
-### Productive Time
-  
-![productive-time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kalyan-velu&theme=github_dark)
-
-### Profile Details
-  
-![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kalyan-velu&theme=github_dark)
-
-</div>
-
-</details>
-
 
 
 

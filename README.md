@@ -19,7 +19,7 @@
 I care about **system design, developer experience, performance, and data safety**, and I enjoy working across the stack to ship products that scale and stay maintainable.
 
 ### 🔗 Quick Info
-- 🖥️ **Portfolio:** <a href="https://portfolio.kalyanjyotiborah.pro">Visit here</a>
+- 🖥️ **Portfolio:** <a href="https://kalyanjyotiborah.pro">Visit here</a>
 - ✉️ **Contact:** <a href="mailto:kalyanborah456@gmail.com">kalyanborah456@gmail.com</a>
 - 🤝 **Availability:** Open to full-time, contract, or freelance roles
 - 📝 **Resume:**  

@@ -11,7 +11,7 @@
 
 ---
 
-## 👋 Kalyan Jyoti Borah
+# 👋 Kalyan Jyoti Borah
 
 **Full-Stack Software Engineer** who builds end-to-end web applications—from clean, performant user interfaces to reliable backend services and APIs.
 
